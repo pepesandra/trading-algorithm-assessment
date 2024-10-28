@@ -1,6 +1,7 @@
 package codingblackfemales.gettingstarted;
 
 import codingblackfemales.algo.AlgoLogic;
+import codingblackfemales.gettingstarted.mylogic.MyAlgoLogic;
 import org.junit.Test;
 
 /**
